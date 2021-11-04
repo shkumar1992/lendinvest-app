@@ -1,0 +1,34 @@
+{
+  "loans": [
+    {
+      "id": "1",
+      "title": "9 Munro Court, Bartin Close, Sheffield",
+      "tranche": "A",
+      "available_amount": "11,959",
+      "annualised_return": "8.60",
+      "term_remaining": "864000",
+      "ltv": "48.80",
+      "loan_value": "85,754"
+    },
+    {
+      "id": "5",
+      "title": "12 Hollins Green Road, Marple",
+      "tranche": "B",
+      "available_amount": "31,405",
+      "annualised_return": "7.10",
+      "term_remaining": "1620000",
+      "ltv": "48.80",
+      "loan_value": "85,754"
+    },
+    {
+      "id": "12",
+      "title": "Robins Gate, Wavering Lane West, Gillingham",
+      "tranche": "C",
+      "available_amount": "12,359",
+      "annualised_return": "4.80",
+      "term_remaining": "879000",
+      "ltv": "48.80",
+      "loan_value": "85,754"
+    }
+  ]
+}
